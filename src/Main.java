@@ -17,7 +17,7 @@ public class Main {
                 factorial = factorial * i;
             }
 
-            System.out.println("Factorial of " + num + " is " + factorial);
+            System.out.println("Factorial of " + num + " is!!!!!! " + factorial);
         }
 
         sc.close();
